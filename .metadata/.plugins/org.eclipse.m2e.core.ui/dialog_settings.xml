@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\dhars\Desktop\C2TC_Spring_Boot\springboot-web-app-2"/>
+			<item value="C:\Users\dhars\Desktop\C2TC_Spring_Boot\springboot-rest-controller"/>
+			<item value="C:\Users\dhars\Desktop\C2TC_Spring_Boot\springboot-rest-api"/>
+			<item value="C:\Users\dhars\Desktop\C2TC_Spring_Boot\springboot-di-scope"/>
+			<item value="C:\Users\dhars\Desktop\C2TC_Spring_Boot\springboot-di-qualifier"/>
+			<item value="C:\Users\dhars\Desktop\C2TC_Spring_Boot\springboot-autowired"/>
+			<item value="C:\Users\dhars\Desktop\C2TC_Spring_Boot\springboot-demo"/>
+			<item value="C:\Users\dhars\Downloads\C2TC_SpringBoot-master\C2TC_SpringBoot-master\springboot-web-app-2"/>
+			<item value="C:\Users\dhars\Downloads\C2TC_SpringBoot-master\C2TC_SpringBoot-master\springboot-rest-controller"/>
+			<item value="C:\Users\dhars\Downloads\C2TC_SpringBoot-master\C2TC_SpringBoot-master\springboot-rest-api"/>
+			<item value="C:\Users\dhars\Downloads\C2TC_SpringBoot-master\C2TC_SpringBoot-master\springboot-di-qualifier"/>
+			<item value="C:\Users\dhars\Downloads\C2TC_SpringBoot-master\C2TC_SpringBoot-master\springboot-di-scope"/>
+			<item value="C:\Users\dhars\Downloads\C2TC_SpringBoot-master\C2TC_SpringBoot-master\springboot-autowired"/>
+			<item value="C:\Users\dhars\Downloads\C2TC_SpringBoot-master\C2TC_SpringBoot-master\springboot-demo"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>

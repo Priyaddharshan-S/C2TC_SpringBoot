@@ -1,0 +1,152 @@
+2025-11-07 15:01:14,431 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2025-11-07 15:03:27,557 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.tnsif:springboot-demo:0.0.1-SNAPSHOT @ C:\Users\dhars\Downloads\C2TC_SpringBoot-master\C2TC_SpringBoot-master\springboot-demo\pom.xml.
+2025-11-07 15:03:32,394 [Worker-13: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-demo/src/main/java
+2025-11-07 15:03:32,398 [Worker-13: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-demo/src/main/resources
+2025-11-07 15:03:32,417 [Worker-13: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-demo/src/main/resources
+2025-11-07 15:03:32,434 [Worker-13: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-demo/src/test/java
+2025-11-07 15:03:32,437 [Worker-13: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-demo/src/test/resources
+2025-11-07 15:03:34,159 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 12 sec
+2025-11-07 15:03:35,804 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-07 15:03:35,846 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-07 15:03:35,853 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dhars\Downloads\C2TC_SpringBoot-master\C2TC_SpringBoot-master\springboot-demo\src\test\resources
+2025-11-07 15:04:14,933 [Worker-31: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.tnsif:springboot-autowired:0.0.1-SNAPSHOT @ C:\Users\dhars\Downloads\C2TC_SpringBoot-master\C2TC_SpringBoot-master\springboot-autowired\pom.xml.
+2025-11-07 15:04:15,565 [Worker-31: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-autowired/src/main/java
+2025-11-07 15:04:15,567 [Worker-31: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-autowired/src/main/resources
+2025-11-07 15:04:15,575 [Worker-31: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-autowired/src/main/resources
+2025-11-07 15:04:15,582 [Worker-31: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-autowired/src/test/java
+2025-11-07 15:04:15,583 [Worker-31: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-autowired/src/test/resources
+2025-11-07 15:04:16,061 [Worker-31: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2025-11-07 15:04:16,761 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-07 15:04:16,851 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-07 15:04:16,861 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dhars\Downloads\C2TC_SpringBoot-master\C2TC_SpringBoot-master\springboot-autowired\src\test\resources
+2025-11-07 15:04:45,007 [Worker-35: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.tnsif:springboot-di-scope:0.0.1-SNAPSHOT @ C:\Users\dhars\Downloads\C2TC_SpringBoot-master\C2TC_SpringBoot-master\springboot-di-scope\pom.xml.
+2025-11-07 15:04:45,619 [Worker-35: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-di-scope/src/main/java
+2025-11-07 15:04:45,620 [Worker-35: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-di-scope/src/main/resources
+2025-11-07 15:04:45,626 [Worker-35: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-di-scope/src/main/resources
+2025-11-07 15:04:45,631 [Worker-35: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-di-scope/src/test/java
+2025-11-07 15:04:45,632 [Worker-35: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-di-scope/src/test/resources
+2025-11-07 15:04:45,980 [Worker-35: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2025-11-07 15:04:46,407 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-07 15:04:46,435 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-07 15:04:46,444 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dhars\Downloads\C2TC_SpringBoot-master\C2TC_SpringBoot-master\springboot-di-scope\src\test\resources
+2025-11-07 15:05:34,815 [Worker-8: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.tnsif:springboot-di-qualifier:0.0.1-SNAPSHOT @ C:\Users\dhars\Downloads\C2TC_SpringBoot-master\C2TC_SpringBoot-master\springboot-di-qualifier\pom.xml.
+2025-11-07 15:05:35,510 [Worker-8: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-di-qualifier/src/main/java
+2025-11-07 15:05:35,511 [Worker-8: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-di-qualifier/src/main/resources
+2025-11-07 15:05:35,516 [Worker-8: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-di-qualifier/src/main/resources
+2025-11-07 15:05:35,523 [Worker-8: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-di-qualifier/src/test/java
+2025-11-07 15:05:35,524 [Worker-8: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-di-qualifier/src/test/resources
+2025-11-07 15:05:35,941 [Worker-8: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2025-11-07 15:05:36,350 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-07 15:05:36,378 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-07 15:05:36,385 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dhars\Downloads\C2TC_SpringBoot-master\C2TC_SpringBoot-master\springboot-di-qualifier\src\test\resources
+2025-11-07 15:05:56,380 [Worker-35: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.tnsif:springboot-rest-api:0.0.1-SNAPSHOT @ C:\Users\dhars\Downloads\C2TC_SpringBoot-master\C2TC_SpringBoot-master\springboot-rest-api\pom.xml.
+2025-11-07 15:05:57,060 [Worker-35: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-rest-api/src/main/java
+2025-11-07 15:05:57,062 [Worker-35: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-rest-api/src/main/resources
+2025-11-07 15:05:57,068 [Worker-35: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-rest-api/src/main/resources
+2025-11-07 15:05:57,072 [Worker-35: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-rest-api/src/test/java
+2025-11-07 15:05:57,073 [Worker-35: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-rest-api/src/test/resources
+2025-11-07 15:05:57,491 [Worker-35: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2025-11-07 15:05:57,975 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-07 15:05:57,998 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-07 15:05:58,013 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dhars\Downloads\C2TC_SpringBoot-master\C2TC_SpringBoot-master\springboot-rest-api\src\test\resources
+2025-11-07 15:06:21,806 [Worker-31: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.tnsif:springboot-rest-controller:0.0.1-SNAPSHOT @ C:\Users\dhars\Downloads\C2TC_SpringBoot-master\C2TC_SpringBoot-master\springboot-rest-controller\pom.xml.
+2025-11-07 15:06:22,443 [Worker-31: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-rest-controller/src/main/java
+2025-11-07 15:06:22,444 [Worker-31: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-rest-controller/src/main/resources
+2025-11-07 15:06:22,450 [Worker-31: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-rest-controller/src/main/resources
+2025-11-07 15:06:22,455 [Worker-31: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-rest-controller/src/test/java
+2025-11-07 15:06:22,457 [Worker-31: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-rest-controller/src/test/resources
+2025-11-07 15:06:22,827 [Worker-31: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2025-11-07 15:06:23,315 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-07 15:06:23,336 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-07 15:06:23,342 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dhars\Downloads\C2TC_SpringBoot-master\C2TC_SpringBoot-master\springboot-rest-controller\src\test\resources
+2025-11-07 15:08:18,834 [Worker-6: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.tnsif:springboot-web-app-2:0.0.1-SNAPSHOT @ C:\Users\dhars\Downloads\C2TC_SpringBoot-master\C2TC_SpringBoot-master\springboot-web-app-2\pom.xml.
+2025-11-07 15:08:19,444 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-web-app-2/src/main/java
+2025-11-07 15:08:19,445 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-web-app-2/src/main/resources
+2025-11-07 15:08:19,451 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-web-app-2/src/main/resources
+2025-11-07 15:08:19,455 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-web-app-2/src/test/java
+2025-11-07 15:08:19,456 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-web-app-2/src/test/resources
+2025-11-07 15:08:19,884 [Worker-6: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2025-11-07 15:08:20,258 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-07 15:08:20,276 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-07 15:08:20,284 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dhars\Downloads\C2TC_SpringBoot-master\C2TC_SpringBoot-master\springboot-web-app-2\src\test\resources
+2025-11-07 15:21:20,275 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-11-07 15:22:55,632 [Worker-18: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.tnsif:springboot-autowired:0.0.1-SNAPSHOT @ C:\Users\dhars\Desktop\C2TC_Spring_Boot\springboot-autowired\pom.xml.
+2025-11-07 15:22:57,043 [Worker-18: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-autowired/src/main/java
+2025-11-07 15:22:57,052 [Worker-18: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-autowired/src/main/resources
+2025-11-07 15:22:57,053 [Worker-18: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-autowired/src/main/resources
+2025-11-07 15:22:57,056 [Worker-18: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-autowired/src/test/java
+2025-11-07 15:22:57,059 [Worker-18: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-autowired/src/test/resources
+2025-11-07 15:22:57,663 [Worker-18: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2025-11-07 15:22:59,233 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-07 15:22:59,322 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-07 15:22:59,331 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dhars\Desktop\C2TC_Spring_Boot\springboot-autowired\src\test\resources
+2025-11-07 15:27:30,288 [Worker-31: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.tnsif:springboot-demo:0.0.1-SNAPSHOT @ C:\Users\dhars\Desktop\C2TC_Spring_Boot\springboot-demo\pom.xml.
+2025-11-07 15:27:30,649 [Worker-31: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-demo/src/main/java
+2025-11-07 15:27:30,650 [Worker-31: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-demo/src/main/resources
+2025-11-07 15:27:30,650 [Worker-31: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-demo/src/main/resources
+2025-11-07 15:27:30,651 [Worker-31: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-demo/src/test/java
+2025-11-07 15:27:30,651 [Worker-31: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-demo/src/test/resources
+2025-11-07 15:27:30,796 [Worker-31: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2025-11-07 15:27:31,136 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-07 15:27:31,147 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-07 15:27:31,151 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dhars\Desktop\C2TC_Spring_Boot\springboot-demo\src\test\resources
+2025-11-07 15:28:03,758 [Worker-31: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.tnsif:springboot-autowired:0.0.1-SNAPSHOT @ C:\Users\dhars\Desktop\C2TC_Spring_Boot\springboot-autowired\pom.xml.
+2025-11-07 15:28:04,017 [Worker-31: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-autowired/src/main/java
+2025-11-07 15:28:04,017 [Worker-31: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-autowired/src/main/resources
+2025-11-07 15:28:04,018 [Worker-31: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-autowired/src/main/resources
+2025-11-07 15:28:04,018 [Worker-31: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-autowired/src/test/java
+2025-11-07 15:28:04,018 [Worker-31: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-autowired/src/test/resources
+2025-11-07 15:28:04,131 [Worker-31: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2025-11-07 15:28:04,490 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-07 15:28:04,499 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-07 15:28:04,503 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dhars\Desktop\C2TC_Spring_Boot\springboot-autowired\src\test\resources
+2025-11-07 15:28:26,860 [Worker-43: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.tnsif:springboot-di-qualifier:0.0.1-SNAPSHOT @ C:\Users\dhars\Desktop\C2TC_Spring_Boot\springboot-di-qualifier\pom.xml.
+2025-11-07 15:28:27,149 [Worker-43: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-di-qualifier/src/main/java
+2025-11-07 15:28:27,149 [Worker-43: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-di-qualifier/src/main/resources
+2025-11-07 15:28:27,150 [Worker-43: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-di-qualifier/src/main/resources
+2025-11-07 15:28:27,150 [Worker-43: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-di-qualifier/src/test/java
+2025-11-07 15:28:27,150 [Worker-43: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-di-qualifier/src/test/resources
+2025-11-07 15:28:27,264 [Worker-43: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2025-11-07 15:28:27,535 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-07 15:28:27,543 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-07 15:28:27,546 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dhars\Desktop\C2TC_Spring_Boot\springboot-di-qualifier\src\test\resources
+2025-11-07 15:28:46,813 [Worker-15: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.tnsif:springboot-di-scope:0.0.1-SNAPSHOT @ C:\Users\dhars\Desktop\C2TC_Spring_Boot\springboot-di-scope\pom.xml.
+2025-11-07 15:28:47,074 [Worker-15: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-di-scope/src/main/java
+2025-11-07 15:28:47,075 [Worker-15: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-di-scope/src/main/resources
+2025-11-07 15:28:47,075 [Worker-15: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-di-scope/src/main/resources
+2025-11-07 15:28:47,075 [Worker-15: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-di-scope/src/test/java
+2025-11-07 15:28:47,076 [Worker-15: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-di-scope/src/test/resources
+2025-11-07 15:28:47,186 [Worker-15: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2025-11-07 15:28:47,473 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-07 15:28:47,482 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-07 15:28:47,486 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dhars\Desktop\C2TC_Spring_Boot\springboot-di-scope\src\test\resources
+2025-11-07 15:29:05,806 [Worker-41: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.tnsif:springboot-rest-api:0.0.1-SNAPSHOT @ C:\Users\dhars\Desktop\C2TC_Spring_Boot\springboot-rest-api\pom.xml.
+2025-11-07 15:29:06,120 [Worker-41: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-rest-api/src/main/java
+2025-11-07 15:29:06,121 [Worker-41: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-rest-api/src/main/resources
+2025-11-07 15:29:06,121 [Worker-41: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-rest-api/src/main/resources
+2025-11-07 15:29:06,121 [Worker-41: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-rest-api/src/test/java
+2025-11-07 15:29:06,122 [Worker-41: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-rest-api/src/test/resources
+2025-11-07 15:29:06,250 [Worker-41: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2025-11-07 15:29:06,532 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-07 15:29:06,541 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-07 15:29:06,550 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dhars\Desktop\C2TC_Spring_Boot\springboot-rest-api\src\test\resources
+2025-11-07 15:29:19,145 [Worker-42: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.tnsif:springboot-rest-controller:0.0.1-SNAPSHOT @ C:\Users\dhars\Desktop\C2TC_Spring_Boot\springboot-rest-controller\pom.xml.
+2025-11-07 15:29:19,462 [Worker-42: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-rest-controller/src/main/java
+2025-11-07 15:29:19,463 [Worker-42: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-rest-controller/src/main/resources
+2025-11-07 15:29:19,464 [Worker-42: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-rest-controller/src/main/resources
+2025-11-07 15:29:19,464 [Worker-42: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-rest-controller/src/test/java
+2025-11-07 15:29:19,464 [Worker-42: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-rest-controller/src/test/resources
+2025-11-07 15:29:19,598 [Worker-42: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2025-11-07 15:29:19,907 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-07 15:29:19,919 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-07 15:29:19,923 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dhars\Desktop\C2TC_Spring_Boot\springboot-rest-controller\src\test\resources
+2025-11-07 15:29:32,481 [Worker-41: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.tnsif:springboot-web-app-2:0.0.1-SNAPSHOT @ C:\Users\dhars\Desktop\C2TC_Spring_Boot\springboot-web-app-2\pom.xml.
+2025-11-07 15:29:32,753 [Worker-41: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-web-app-2/src/main/java
+2025-11-07 15:29:32,753 [Worker-41: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-web-app-2/src/main/resources
+2025-11-07 15:29:32,754 [Worker-41: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-web-app-2/src/main/resources
+2025-11-07 15:29:32,754 [Worker-41: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-web-app-2/src/test/java
+2025-11-07 15:29:32,754 [Worker-41: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-web-app-2/src/test/resources
+2025-11-07 15:29:32,881 [Worker-41: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2025-11-07 15:29:33,269 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-11-07 15:29:33,278 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-11-07 15:29:33,281 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dhars\Desktop\C2TC_Spring_Boot\springboot-web-app-2\src\test\resources
